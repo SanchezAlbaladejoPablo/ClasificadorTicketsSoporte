@@ -1,4 +1,4 @@
-![Portada](docs/portada.png)
+![Portada](Portada.pdf)
 
 ## 🚀 Características
 
